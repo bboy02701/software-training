@@ -34,7 +34,7 @@ int main() {
 
     //This is the main function that runs any logic!
     //////////Local Variables/////////
-    int num = 0;
+    int num = 666;
     int length = 0;
     int count = 0;
     string str = "";
